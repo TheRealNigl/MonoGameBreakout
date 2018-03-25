@@ -1,0 +1,125 @@
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.csprojResolveAssemblyReference.cache
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.csproj.CoreCompileInputs.cache
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\ballBig.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\ballSmall.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_blue.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_bubble.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_bubbleBig.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_earth.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_greenWaveBig.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_greenWaveSmall.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_red.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_yellow.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleBig.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleBiger.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleSmall.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\SpriteMarker.xnb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameBreakout.exe
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameBreakout.pdb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.exe
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.pdb
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameLibrary.dll
+C:\Users\alexander.nigl\Desktop\PersonalRepo\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameLibrary.pdb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\ballBig.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\ballSmall.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_blue.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_bubble.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_bubbleBig.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_earth.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_greenWaveBig.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_greenWaveSmall.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_red.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_yellow.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleBig.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleBiger.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleSmall.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\SpriteMarker.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameBreakout.exe
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameBreakout.pdb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameLibrary.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameLibrary.pdb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.csprojResolveAssemblyReference.cache
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.csproj.CoreCompileInputs.cache
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.exe
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.pdb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\ballBig.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\ballSmall.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_blue.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_bubble.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_bubbleBig.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_earth.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_greenWaveBig.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_greenWaveSmall.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_red.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\block_yellow.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleBig.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleBiger.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\paddleSmall.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\SpriteMarker.xnb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameBreakout.exe
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameBreakout.pdb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameLibrary.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\MonoGameLibrary.pdb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.csprojResolveAssemblyReference.cache
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.csproj.CoreCompileInputs.cache
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.exe
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\obj\x86\Debug\MonoGameBreakout.pdb
+C:\Users\alexander.nigl\Desktop\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\Arial.xnb
+D:\Documents\Game Programming Clas\Personal Folder\SP18\AlexanderJamesNigl\MonoGameBreakout\MonoGameBreakout\bin\Windows\x86\Debug\Content\Arial.xnb
