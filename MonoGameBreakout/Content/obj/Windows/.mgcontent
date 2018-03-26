@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/ballBig.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/ballSmall.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/block_blue.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/block_bubble.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/block_bubbleBig.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/block_earth.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/block_greenWaveBig.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/block_greenWaveSmall.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/block_red.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/block_yellow.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/paddleBig.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/paddleBiger.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/paddleSmall.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/SpriteFont1.spritefont</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/SpriteMarker.png</File>
+    <File>D:/Documents/Game Programming Clas/Personal Folder/SP18/AlexanderJamesNigl/MonoGameBreakout/MonoGameBreakout/Content/Arial.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
